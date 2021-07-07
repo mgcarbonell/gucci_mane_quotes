@@ -9,6 +9,6 @@
 The inspiration from this project comes from https://opensauced.pizza/ and @bdougie. When I saw that he had one of my favorite Gucci Mane quotes on his page, I decided to make a Gucci Mane CLI quote generator.
 
 ## Thank Yous
-Thank you to bdougie for the inspiration, and thank you to Gucci Mane for the inspirational quotes.
+Thank you to bdougie for the initial spark, and thank you to Gucci Mane for the inspirational quotes.
 
 "This imported foreign flying saucer make me feel important."
