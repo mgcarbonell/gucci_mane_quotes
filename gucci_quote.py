@@ -20,5 +20,5 @@ quote_list = [
         "I try to take a couple of young guys under my wing and tell them what I've learned, because you can't teach nobody if you don't know anything.",
         ]
 
-print(f'"{random.choice(quote_list)}" - Gucci Mane')
+print(f'"{random.choice(quote_list)}"\n - Gucci Mane')
 
