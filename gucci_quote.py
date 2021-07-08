@@ -22,4 +22,9 @@ quote_list = [
     "Burr!",
 ]
 
-print(f'"{random.choice(quote_list)}"\n - Gucci Mane')
+quote = random.sample(quote_list, 1)
+
+for item in quote:
+    print(f'"{item}"\n -Gucci Mane')
+
+# print(f'"{random.choice(quote_list)}"\n - Gucci Mane')
