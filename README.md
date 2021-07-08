@@ -1,4 +1,4 @@
-# Inspirational Gucci Mane Quotes for your Terminal
+# Gucci Mane CLI: Inspirational Gucci Mane Quotes for your Terminal
 
 ## Installation
 1. Clone this repo to your local host.
